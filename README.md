@@ -16,3 +16,6 @@ python -m venv .venv
 
 pip install -r requirements.txt
 streamlit run app.py
+
+# ชื่อและรหัสนักศึกษา
+- 6510110058 จักรพันธ์ สุวรรณรักษา
